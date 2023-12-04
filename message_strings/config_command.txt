@@ -1,0 +1,5 @@
+Currently available config commands:
+/conf_edit (Will automatically create a new config preset for your group):
+- report_system - true / false
+- max_reports - integer
+- default_mute_time - integer [time in minutes]
