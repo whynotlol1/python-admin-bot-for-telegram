@@ -1,0 +1,3 @@
+Hello and welcome to the TeleAdmin bot!
+The purpose of the bot is to make keeping telegram groups tide and clean an easier task for the admins!
+Use /config for a list of bot config commands and /help for a list of moderation commands.
