@@ -1,0 +1,4 @@
+Currently available commands:
+/mute [user] [duration (in minutes)]
+/unmute [user]
+/report [user] (if the reporting system is on!)
